@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>kanishq shoping</title>
+</head>
+<body>
+<h1>Your Store only</h1>
+<ul>find the best product here</ul>
+<li><a href="clothes.html">clothes</a></li>
+<p>this is the best clthes</p>
+<li> <a href="headphones.html">headphones</a></li>
+<ul>
+	<li>boat</li>
+	<li>jbl</li>
+</ul>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>clothes</title>
+</head>
+<body>
+<h1>clothes</h1>
+<li>gucchi</li>
+<li>van husein</li>
+<a href="mini.html">click here</a>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>you will find the headphones</title>
+</head>
+<body>
+<h1>brand</h1>
+
+<li>jbl</li>
+<li>boat</li>
+<a href="mini.html">clck here</a>
+</body>
+</html>
